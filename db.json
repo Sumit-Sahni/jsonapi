@@ -5,6 +5,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -20,6 +21,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -35,6 +37,7 @@
             "name":"DLF builds",
             "price": "$880",
             "location":"Delhi",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -50,6 +53,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+             "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -65,6 +69,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -80,6 +85,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -95,6 +101,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -110,6 +117,7 @@
             "name":"DLF builds",
             "price": "$880",
             "location":"Delhi",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -125,6 +133,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+             "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -140,6 +149,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -155,6 +165,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -170,6 +181,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -185,6 +197,7 @@
             "name":"DLF builds",
             "price": "$880",
             "location":"Delhi",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -200,6 +213,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+             "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -215,6 +229,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -230,6 +245,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -245,6 +261,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -260,6 +277,7 @@
             "name":"DLF builds",
             "price": "$880",
             "location":"Delhi",
+            "property":"rent",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -275,6 +293,7 @@
             "name":"Palm Harbor",
             "price": "$980",
             "location":"pune",
+             "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -290,6 +309,7 @@
             "name":"JW Marriott",
             "price": "$1180",
             "location":"mumbai",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
