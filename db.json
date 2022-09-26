@@ -6,7 +6,7 @@
             "price": 10000,
             "location":"pune",
             "property":"home",
-            "image":"https://unsplash.com/photos/zVf-R-r3szw/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTY4NjU3&force=true&w=1920",
+            "image":"https://unsplash.com/photos/178j8tJrNlc/download?force=true&w=1920",
             "more":[
                 {
                     "beds":3,
@@ -66,7 +66,7 @@
         },
         {
             "id":5,
-            "name":"JW Marriott",
+            "name":"Coastal Premier Properties",
             "price": 2000,
             "location":"nagpur",
             "property":"corporeal",
@@ -278,7 +278,7 @@
             "price": 880,
             "location":"delhi",
             "property":"rent",
-            "image":"https://unsplash.com/photos/Hh18POSx5qk/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTY4NDI2&force=true&w=1920",
+            "image":"https://unsplash.com/photos/Bkp3gLygyeA/download?force=true&w=1920",
             "more":[
                 {
                     "beds":2,
@@ -294,7 +294,7 @@
             "price": 25000,
             "location":"colaba",
              "property":"movable",
-            "image":"https://unsplash.com/photos/EMPLSuvDuhQ/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTY2NTYw&force=true&w=1920",
+            "image":"",
             "more":[
                 {
                     "beds":3,
@@ -310,7 +310,7 @@
             "price": 1180,
             "location":"mumbai",
             "property":"home",
-            "image":"https://unsplash.com/photos/R1uiDu8vBh0/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTY4Nzg5&force=true&w=1920",
+            "image":"https://unsplash.com/photos/mx4mSkK9zeo/download?force=true&w=1920",
             "more":[
                 {
                     "beds":5,
