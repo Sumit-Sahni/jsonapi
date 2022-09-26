@@ -5,7 +5,7 @@
             "name":"Palm Harbor",
             "price": 980,
             "location":"pune",
-            "property":"rent",
+            "property":"home",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -18,11 +18,11 @@
         },
         {
             "id":2,
-            "name":"JW Marriott",
+            "name":"Blue Sky",
             "price": 1180,
             "location":"mumbai",
-            "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "property":"private",
+            "image":"https://unsplash.com/photos/XuegU05_sHY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Nnx8cHJvcGVydHklMjByZW50fGVufDB8fHx8MTY2NDE2NDAzMQ&force=true&w=640",
             "more":[
                 {
                     "beds":5,
@@ -37,8 +37,8 @@
             "name":"DLF builds",
             "price": 880,
             "location":"delhi",
-            "property":"rent",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "property":"public",
+            "image":"https://unsplash.com/photos/QR_vT8_hBZM/download?force=true&w=640",
             "more":[
                 {
                     "beds":2,
@@ -50,11 +50,11 @@
         },
          {
             "id":4,
-            "name":"Palm Harbor",
-            "price": 980,
-            "location":"pune",
-             "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "name":"Stone Real estate",
+            "price": 10000,
+            "location":"nagpur",
+             "property":"corporeal",
+            "image":"https://unsplash.com/photos/D_4R9CcYZOk/download?force=true",
             "more":[
                 {
                     "beds":3,
@@ -67,9 +67,9 @@
         {
             "id":5,
             "name":"JW Marriott",
-            "price": 1180,
-            "location":"mumbai",
-            "property":"home",
+            "price": 20000,
+            "location":"nagpur",
+            "property":"corporeal",
             "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
             "more":[
                 {
@@ -86,7 +86,7 @@
             "price": 980,
             "location":"pune",
             "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "image":"https://unsplash.com/photos/YOoucEImrKw/download?force=true&w=1920",
             "more":[
                 {
                     "beds":3,
@@ -98,11 +98,11 @@
         },
         {
             "id":7,
-            "name":"JW Marriott",
-            "price": 1180,
-            "location":"mumbai",
-            "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "name":"Lincoln Property",
+            "price": 1800,
+            "location":"gurugram",
+            "property":"Incorporeal",
+            "image":"https://unsplash.com/photos/XbwHrt87mQ0/download?force=true&w=1920",
             "more":[
                 {
                     "beds":5,
@@ -114,11 +114,11 @@
         },
         {
             "id":8,
-            "name":"DLF builds",
-            "price": 880,
-            "location":"delhi",
+            "name":"Sharp Realty Group",
+            "price": 1200,
+            "location":"gurugram",
             "property":"rent",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "image":"https://unsplash.com/photos/B0aCvAVSX8E/download?force=true&w=1920",
             "more":[
                 {
                     "beds":2,
@@ -130,11 +130,11 @@
         },
          {
             "id":9,
-            "name":"Palm Harbor",
+            "name":"American Realty Brokers",
             "price": 980,
             "location":"mumbai",
-             "property":"rent",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+             "property":"private",
+            "image":"https://unsplash.com/photos/wR11KBaB86U/download?force=true&w=1920",
             "more":[
                 {
                     "beds":3,
@@ -146,11 +146,11 @@
         },
         {
             "id":10,
-            "name":"JW Marriott",
+            "name":"Penny Realty Inc.",
             "price": 1180,
             "location":"mumbai",
-            "property":"rent",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "property":"private",
+            "image":"https://unsplash.com/photos/bN_TkedaBuQ/download?force=true&w=1920",
             "more":[
                 {
                     "beds":5,
@@ -162,11 +162,11 @@
         },
         {
             "id":11,
-            "name":"Palm Harbor",
+            "name":"MEM Property Management",
             "price": 980,
             "location":"pune",
             "property":"rent",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "image":"https://unsplash.com/photos/bjej8BY1JYQ/download?force=true&w=1920",
             "more":[
                 {
                     "beds":3,
@@ -178,11 +178,11 @@
         },
         {
             "id":12,
-            "name":"JW Marriott",
-            "price": 1180,
-            "location":"delhi",
-            "property":"rent",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "name":"Ready Real Estate",
+            "price": 1200,
+            "location":"mumbai",
+            "property":"private",
+            "image":"https://unsplash.com/photos/pmhdkgRCbtE/download?force=true&w=1920",
             "more":[
                 {
                     "beds":5,
@@ -194,11 +194,11 @@
         },
         {
             "id":13,
-            "name":"DLF builds",
+            "name":"Premiere Property Group",
             "price": 880,
             "location":"mumbai",
             "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "image":"https://unsplash.com/photos/2d4lAQAlbDA/download?force=true&w=1920",
             "more":[
                 {
                     "beds":2,
@@ -210,11 +210,11 @@
         },
          {
             "id":14,
-            "name":"Palm Harbor",
-            "price": 980,
-            "location":"pune",
+            "name":"Circle Point Homes",
+            "price": 880,
+            "location":"goa",
              "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "image":"https://unsplash.com/photos/RKdLlTyjm5g/download?force=true&w=1920",
             "more":[
                 {
                     "beds":3,
@@ -226,11 +226,11 @@
         },
         {
             "id":15,
-            "name":"JW Marriott",
+            "name":"Avenue Realty",
             "price": 1180,
-            "location":"pune",
+            "location":"mumbai",
             "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "image":"https://unsplash.com/photos/_hw4aUQ81ic/download?force=true&w=1920",
             "more":[
                 {
                     "beds":5,
@@ -242,11 +242,11 @@
         },
         {
             "id":16,
-            "name":"Palm Harbor",
-            "price": 980,
-            "location":"delhi",
+            "name":"Think Real Estate",
+            "price": 880,
+            "location":"goa",
             "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "image":"https://unsplash.com/photos/-_folCc8Q8k/download?force=true&w=1920",
             "more":[
                 {
                     "beds":3,
@@ -258,11 +258,11 @@
         },
         {
             "id":17,
-            "name":"JW Marriott",
-            "price": 1180,
-            "location":"pune",
-            "property":"rent",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "name":"Beachfront Realty",
+            "price": 25000,
+            "location":"colaba",
+            "property":"movable",
+            "image":"https://unsplash.com/photos/_TPTXZd9mOo/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTY2NDcx&force=true&w=1920",
             "more":[
                 {
                     "beds":5,
@@ -290,11 +290,11 @@
         },
          {
             "id":19,
-            "name":"Palm Harbor",
-            "price": 980,
-            "location":"pune",
-             "property":"home",
-            "image":"https://unsplash.com/photos/9gGvNWBeOq4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE2NjM4NzkxNTg&force=true&w=1920",
+            "name":"Nice Seattle Homes",
+            "price": 25000,
+            "location":"colaba",
+             "property":"movable",
+            "image":"https://unsplash.com/photos/EMPLSuvDuhQ/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTY2NTYw&force=true&w=1920",
             "more":[
                 {
                     "beds":3,
